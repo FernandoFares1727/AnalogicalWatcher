@@ -1,0 +1,16 @@
+C:\Users\ferna\OneDrive\Documentos\Projetos Git\AnalogicalWatcher\AnalogicalWatcher\obj\Debug\net8.0-windows\AnalogicalWatcher.Watcher.resources
+C:\Users\ferna\OneDrive\Documentos\Projetos Git\AnalogicalWatcher\AnalogicalWatcher\obj\Debug\net8.0-windows\AnalogicalWatcher.csproj.GenerateResource.cache
+C:\Users\ferna\OneDrive\Documentos\Projetos Git\AnalogicalWatcher\AnalogicalWatcher\obj\Debug\net8.0-windows\AnalogicalWatcher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferna\OneDrive\Documentos\Projetos Git\AnalogicalWatcher\AnalogicalWatcher\obj\Debug\net8.0-windows\AnalogicalWatcher.AssemblyInfoInputs.cache
+C:\Users\ferna\OneDrive\Documentos\Projetos Git\AnalogicalWatcher\AnalogicalWatcher\obj\Debug\net8.0-windows\AnalogicalWatcher.AssemblyInfo.cs
+C:\Users\ferna\OneDrive\Documentos\Projetos Git\AnalogicalWatcher\AnalogicalWatcher\obj\Debug\net8.0-windows\AnalogicalWatcher.csproj.CoreCompileInputs.cache
+C:\Users\ferna\OneDrive\Documentos\Projetos Git\AnalogicalWatcher\AnalogicalWatcher\bin\Debug\net8.0-windows\AnalogicalWatcher.exe
+C:\Users\ferna\OneDrive\Documentos\Projetos Git\AnalogicalWatcher\AnalogicalWatcher\bin\Debug\net8.0-windows\AnalogicalWatcher.deps.json
+C:\Users\ferna\OneDrive\Documentos\Projetos Git\AnalogicalWatcher\AnalogicalWatcher\bin\Debug\net8.0-windows\AnalogicalWatcher.runtimeconfig.json
+C:\Users\ferna\OneDrive\Documentos\Projetos Git\AnalogicalWatcher\AnalogicalWatcher\bin\Debug\net8.0-windows\AnalogicalWatcher.dll
+C:\Users\ferna\OneDrive\Documentos\Projetos Git\AnalogicalWatcher\AnalogicalWatcher\bin\Debug\net8.0-windows\AnalogicalWatcher.pdb
+C:\Users\ferna\OneDrive\Documentos\Projetos Git\AnalogicalWatcher\AnalogicalWatcher\obj\Debug\net8.0-windows\AnalogicalWatcher.dll
+C:\Users\ferna\OneDrive\Documentos\Projetos Git\AnalogicalWatcher\AnalogicalWatcher\obj\Debug\net8.0-windows\refint\AnalogicalWatcher.dll
+C:\Users\ferna\OneDrive\Documentos\Projetos Git\AnalogicalWatcher\AnalogicalWatcher\obj\Debug\net8.0-windows\AnalogicalWatcher.pdb
+C:\Users\ferna\OneDrive\Documentos\Projetos Git\AnalogicalWatcher\AnalogicalWatcher\obj\Debug\net8.0-windows\AnalogicalWatcher.genruntimeconfig.cache
+C:\Users\ferna\OneDrive\Documentos\Projetos Git\AnalogicalWatcher\AnalogicalWatcher\obj\Debug\net8.0-windows\ref\AnalogicalWatcher.dll
